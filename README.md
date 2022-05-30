@@ -1,2 +1,2 @@
 # CodeWarsTraining
-Repo for my solutions on Code Wars
+Repo for my solutions in Code Wars
